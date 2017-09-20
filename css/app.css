@@ -1,0 +1,28 @@
+ body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+nav{
+    background-color: #104E8B;
+}
+
+.page-footer{
+    background-color: #104E8B;
+}
+
+card img .card-image{
+    display: inline;
+    border-radius: 2px 2px 0 0;
+    position: relative;
+    width: 100%;
+
+    
+}
+
